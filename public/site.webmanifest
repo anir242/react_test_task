@@ -1,0 +1,8 @@
+{
+  "name": "React test task",
+  "short_name": "React test task",
+  "icons": [],
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}
